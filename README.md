@@ -1,4 +1,4 @@
-<div align="center" width="100%"><img src="https://avatars.githubusercontent.com/u/92959964" align="center" style="width: 25%; border-radius: 100%" /><br>👨‍💻 Mi nombre es Giovanni Diaz, Analista de Ciberseguridad desde el año 2021 🚀<br>🔭 Actualmente trabajo como Analista de Ciberseguridad y Penteser<br>⚡ Aprendizaje Continuo</div>
+<div align="center" width="100%"><img src="https://avatars.githubusercontent.com/u/92959964" align="center" style="width: 25%; border-radius: 100%" /><br>👨‍💻 Mi nombre es Giovanni Diaz, Analista de Ciberseguridad desde el año 2021 🚀<br>🔭 Actualmente trabajo como Analista de Ciberseguridad y Pentester<br>⚡ Aprendizaje Continuo</div>
 
   
 ***
