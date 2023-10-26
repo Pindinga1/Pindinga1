@@ -28,7 +28,7 @@
 
 # Aportes
 
-<div align="center" width="100%"><a href="https://paypal.me/hebbo1" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" /></a></div>
+<div align="center" width="100%"><a target="_blank" href="https://paypal.me/hebbo1" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" /></a></div>
 
   
 
